@@ -12,7 +12,7 @@ export default function Home() {
                     <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
                   </svg>
                 </div>
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">ShopEase</h1>
+                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Martify</h1>
               </div>
             </div>
             <div className="hidden md:block">
@@ -159,7 +159,7 @@ export default function Home() {
               <span className="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
               Why Choose Us
             </div>
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Why Choose ShopEase?</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Why Choose Martify?</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               We provide exceptional service and quality products to make your shopping experience unforgettable.
             </p>
@@ -408,7 +408,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-2xl font-bold mb-4">ShopEase</h3>
+              <h3 className="text-2xl font-bold mb-4">Martify</h3>
               <p className="text-gray-400 mb-4">Your one-stop destination for premium products and exceptional shopping experience.</p>
               <div className="flex space-x-4">
                 <a href="#" className="text-gray-400 hover:text-white transition-colors">
@@ -454,12 +454,12 @@ export default function Home() {
                 <p>123 Shopping Street</p>
                 <p>New York, NY 10001</p>
                 <p>Phone: (555) 123-4567</p>
-                <p>Email: info@shopease.com</p>
+                <p>Email: info@martify.com</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center">
-            <p className="text-gray-400">&copy; 2024 ShopEase. All rights reserved.</p>
+            <p className="text-gray-400">&copy; 2024 Martify. All rights reserved.</p>
           </div>
         </div>
       </footer>
