@@ -1,0 +1,20 @@
+{
+  "name": "Martify - Premium E-commerce Store",
+  "short_name": "Martify",
+  "description": "Discover amazing products with Martify. Your one-stop destination for premium products with fast shipping, secure payments, and exceptional customer service.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "business", "productivity"],
+  "lang": "en",
+  "orientation": "portrait-primary"
+}
